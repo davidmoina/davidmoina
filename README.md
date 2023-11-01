@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me :
 
-- 🌱 I’m currently learning **Typescript, Node Js, MongoDB, Next JS**.
+- 🌱 I’m currently learning **Nest Js, Next JS**.
 - 📫 How to reach me: **luisdavidmoina@gmail.com**
 
 
